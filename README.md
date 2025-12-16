@@ -1,6 +1,6 @@
 # Commands for minipro:
 
-# Process to read chip with minipro
+## Process to read chip with minipro
 * Install minipro: https://gitlab.com/DavidGriffith/minipro/
 * Make sure minipro is seen on USB devices
   ```
@@ -27,9 +27,13 @@
   M27C4001@PLCC32
   M27C4001@TSOP32
   ```
-* Select the base or one that ends with "@DIP32" if you are using a DIP chip.
+* Select the base or one that ends with "@DIP32" if you are using a DIP chip and using a command similar to:
+  ```
+  minipro -p M27C4001@DIP32 -r lotr_display_v10.0.bin
+  ```
 
-# burn GAL16V8D chip: 
+## Writing chips:
+* GAL16V8D chip: 
 ```
 minipro -p GAL16V8D -w GOLD-PAL-U213.jed
 ```
