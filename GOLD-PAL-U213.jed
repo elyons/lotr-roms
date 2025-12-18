@@ -1,14 +1,14 @@
-CUPL(WM) 5.0a Serial# 60008009
+CUPL(WM) 5.0a Serial# 60008009
 Device g16v8ma Library DLIB-h-40-8
 Created Wed Aug 17 22:46:52 2011
 Name U213
 Partno U213
-Revision
+Revision 
 Date 16/08/2011
-Designer
+Designer 
 Company Data East / Sega / Stern
-Assembly
-Location
+Assembly 
+Location 
 *QP20
 *QF2194
 *G0
@@ -39,4 +39,4 @@ Location
 *L02144 11111111111111111111111111111111
 *L02176 111111111111111111
 *C5753
-*0F11
+0F11
