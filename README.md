@@ -37,5 +37,6 @@
 ```
 minipro -p GAL16V8D -w GOLD-PAL-U213.jed
 ```
-
+# Installing the shaker:
+I followed the information found in this Pinside thread: https://pinside.com/pinball/forum/topic/how-to-install-shaker-motor-in-lotr-standard-edition
 
